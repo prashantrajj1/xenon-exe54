@@ -20,17 +20,10 @@
 <!-- ===================== FEATURED GIF ===================== -->
 ## ⚔️ Motivation × Code
 
-<p align="center">
-  <img 
-    src="assets/FromKlickPinCFTATAKAETATAKAEin2025_AttackontitanAnimewallpaperCoolanimebackgrounds-ezgif.com-optimize.gif"
-    width="600"
-    alt="Attack on Titan Motivation GIF"
-  />
-</p>
+![Attack on Titan Motivation](FromKlickPinCFTATAKAETATAKAEin2025_AttackontitanAnimewallpaperCoolanimebackgrounds-ezgif.com-optimize.gif)
 
-<p align="center">
-  <i>“If you don’t fight, you can’t win.”</i>
-</p>
+> **“If you don't fight, you can't win.”**
+
 
 ---
 
